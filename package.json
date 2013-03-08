@@ -6,7 +6,10 @@
     "test": "echo nope && exit 1",
     "postinstall": "cat tip.txt"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isao/argg.git"
+  },
   "author": "Isao Yagi <isao@yahoo-inc.com>",
   "license": "MIT"
 }
