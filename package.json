@@ -1,6 +1,6 @@
 {
   "name": "argg",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A poor man's test runner for tap, tape, or similar, that also can be used with istanbul. It's just three lines of code to require all globs or pathnames provided as command line arguments.",
   "scripts": {
     "test": "echo nope && exit 1",
