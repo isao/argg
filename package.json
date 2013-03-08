@@ -1,0 +1,12 @@
+{
+  "name": "argg",
+  "version": "0.0.0",
+  "description": "Three lines of code to `require` all the files provided as command line arguments. A poor man's test runner that works with istanbul.",
+  "scripts": {
+    "test": "echo nope && exit 1",
+    "postinstall": "cat tip.txt"
+  },
+  "repository": "",
+  "author": "Isao Yagi <isao@yahoo-inc.com>",
+  "license": "MIT"
+}
