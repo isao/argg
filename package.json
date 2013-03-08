@@ -1,7 +1,7 @@
 {
   "name": "argg",
   "version": "0.0.0",
-  "description": "Three lines of code to `require` all the files provided as command line arguments. A poor man's test runner that works with istanbul.",
+  "description": "A poor man's test runner for tap, tape, or similar, that also can be used with istanbul. It's just three lines of code to require all globs or pathnames provided as command line arguments.",
   "scripts": {
     "test": "echo nope && exit 1",
     "postinstall": "cat tip.txt"
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git://github.com/isao/argg.git"
   },
+  "keywords": ["tap", "tape", "istanbul"],
   "author": "Isao Yagi <isao@yahoo-inc.com>",
   "license": "MIT"
 }
