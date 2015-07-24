@@ -22,9 +22,9 @@ Install like:
     npm test
     npm run cover
 
-why
+<strike>why</strike>
 ---
-Hey ok, tap has a [nice test runner](https://github.com/isaacs/node-tap/blob/master/lib/tap-runner.js), but I would need something [like](https://github.com/substack/tape/pull/19) this for tape by itself, or for either tap or tape with istanbul. I could make a file and explicitly require the files, but that takes typing, and I know I'd miss something.
+<strike>Hey ok, tap has a [nice test runner](https://github.com/isaacs/node-tap/blob/master/lib/tap-runner.js), but I would need something [like](https://github.com/substack/tape/pull/19) this for tape by itself, or for either tap or tape with istanbul. I could make a file and explicitly require the files, but that takes typing, and I know I'd miss something.</strike>
 
 license
 -------
