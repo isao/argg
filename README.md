@@ -1,8 +1,9 @@
 argg
 ====
-A poor man's test runner for [tap](https://github.com/isaacs/node-tap), [tape](https://github.com/substack/tape), or similar, that also can be used with [istanbul](https://github.com/gotwarlost/istanbul). It's just three lines of code to `require` pathnames from the command line. Shell globbing test runner, if you will, which you can do when your tests are simple scripts.
 
-note! `argg`'s functionality [now ships with `tape`](https://github.com/substack/tape/blob/master/bin/tape) as of version 0.3.0.
+**note!** this project is obsolete, this functionality [now ships with `tape`](https://github.com/substack/tape/blob/master/bin/tape) as of version 0.3.0.
+
+A poor man's test runner for [tap](https://github.com/isaacs/node-tap), [tape](https://github.com/substack/tape), or similar, that also can be used with [istanbul](https://github.com/gotwarlost/istanbul). It's just three lines of code to `require` pathnames from the command line. Shell globbing test runner, if you will, which you can do when your tests are simple scripts.
 
 usage
 -----
